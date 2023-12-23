@@ -69,24 +69,28 @@ RegisterNumber:  230008364
 
 ### RTL Diagram
 
+![image](https://github.com/Preethijgan/Exp-6-Synchornous-counters-/assets/144870652/16c9060b-c2fc-4480-a693-f16df5dd3182)
 
 ### Timing Diagram
 
+![image](https://github.com/Preethijgan/Exp-6-Synchornous-counters-/assets/144870652/dd55c76c-bb8a-4352-9ebc-983ca9671ecd)
 
 ### DOWN COUNTER
-
 ### Code
-
+![image](https://github.com/Preethijgan/Exp-6-Synchornous-counters-/assets/144870652/fd656f64-6950-4b7a-915a-48fc62fda02f)
 
 ### Truth Table
 
+![image](https://github.com/Preethijgan/Exp-6-Synchornous-counters-/assets/144870652/e5c9bd71-6b65-4c4b-abbe-5977523c4266)
 
 ### RTL Diagram
 
+![image](https://github.com/Preethijgan/Exp-6-Synchornous-counters-/assets/144870652/5656e447-b471-408b-b45d-cddfbc0e671f)
 
 ### Timing Diagram
 
-![Uploading image.png…]()
+![image](https://github.com/Preethijgan/Exp-6-Synchornous-counters-/assets/144870652/292fc2c1-dd88-413a-b565-325a376eb0ca)
+
 
 ### RESULTS 
 
